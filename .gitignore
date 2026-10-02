@@ -38,3 +38,8 @@ build/
 data/raw/*
 data/interim/*
 data/processed/*
+
+# Keep folder placeholders
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
