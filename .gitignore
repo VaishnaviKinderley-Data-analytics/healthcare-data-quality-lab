@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Local environment files
+.env
+
+# Temporary files
+*.tmp
+*.log
+
+# Python distribution files
+dist/
+build/
+*.egg-info/
+
+# Local databases
+*.duckdb
+*.db
+
+# Large generated data files
+data/raw/*
+data/interim/*
+data/processed/*
